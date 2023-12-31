@@ -26,9 +26,8 @@ Hey guys welcome to another cybersecurity project 🌐💻. In this project, I w
 - <b>📝 STEP 2: Download and exact the Kali Linux and Metasploitable tool to use in Virtual box. </b>
 
 - <b>📝 STEP 3: After opening both tools, I ran 'ifconfig' on Metasploitable to know the IP address I will be hacking into</b>
-<img width="960" alt="Screenshot 2023-12-27 131829" src="https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab/assets/154943957/9662e756-7447-45a9-a83b-147d61dacb82">
 
-- <b>📝 STEP 4: Connect VMs in a Network > In VirtualBox, select each VM and go to "Settings" > "Network." Choose the "Bridged Adapter" for each VM to connect them to the same network.</b>
+- <b>📝 STEP 4: From here I was able to run basic Nmap commands to see what a vulnerable machine would look like. </b>
 
 - <b>📝 STEP 5: We explore and practice: As I said we are only setting up the Home lab and connecting each tool, then using it for future projects. So keep watch for the next project]
 
