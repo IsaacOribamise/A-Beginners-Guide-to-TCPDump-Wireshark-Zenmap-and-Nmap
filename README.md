@@ -44,7 +44,7 @@ Hey guys welcome to another cybersecurity project 🌐💻. In this project, I w
 - <b>📝 STEP 6: This was where I dived into TCPdump and practiced using its commands. The 'tcpdump -i eth0' captures packets on my network interface this essentially means that I can observe and analyze the data that is flowing through my computer's network connection.  </b>
 <img width="419" alt="Screenshot 2023-12-31 055449" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/1e0821c2-72f7-4202-ad57-faaacca3e1ea">
 
-- <b>📝 STEP 6: Lastly, I practiced the use of Wireshark, it has a similar function to the 'TCPdump' command which captures packets on my WIFI but is GUI version.
+- <b>📝 STEP 7: Lastly, I practiced the use of Wireshark, it has a similar function to the 'TCPdump' command which captures packets on my WIFI but is GUI version.
 <img width="577" alt="Screenshot 2023-12-31 060146" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/077e2c6e-a1ae-4d74-b009-a1c2cdf40eef">
 
 
