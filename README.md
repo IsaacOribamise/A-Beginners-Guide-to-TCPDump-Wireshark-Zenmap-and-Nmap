@@ -17,16 +17,15 @@ Hey guys welcome to another cybersecurity project 🌐💻. In this project, I w
 - <b>[🔄 BIOS/UEFI: VT-x, AMD-V, or the equivalent must be enabled in the BIOS/UEFI]</b>
 - <b>[🔧 System Type: 64-bit operating system, x64-based processor (⚠️MANDATORY: This is a must)]</b>
 
-<h2>[📝 Step by Step Guide To Setting Up Your Cybersecurity Home Lab (Note: For this project, we would only be setting up the Home lab and connecting each tool, then using it for future projects.]
+<h2>[📝 Step by Step Guide To The Basics Using Nmap and TCPdump]
 
-- <b>[THIS LINK IS A WELL-DETAILED GUIDE OF THE PROJECT](https://www.youtube.com/watch?v=BwAD8w05D5A&list=PLUkY1OVVHzVktZOecfiDxdIodK4l5KkwY&index=1&pp=iAQB)</b>
+- <b>[THIS LINK IS A WELL-DETAILED GUIDE OF THE PROJECT](https://www.youtube.com/watch?v=wJ1orKMY2wc&list=PLUkY1OVVHzVktZOecfiDxdIodK4l5KkwY&index=7)</b>
 
 - <b>📝 STEP 1: Download and install VirtualBox from the official website. Follow the installation instructions for your operating system.</b>
 
-- <b>📝 STEP 2: Download and exact all the other tools (Kali Linux, Windows server 2019, Windows 11 OS, and Metasploitable). Lastly, you can also put everything in a designated folder to make it look organized.</b>
-<img width="784" alt="Screenshot 2023-12-27 131015" src="https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab/assets/154943957/a3fb8b1d-6346-4719-9546-4648e7d757f2">
+- <b>📝 STEP 2: Download and exact the Kali Linux and Metasploitable tool to use in Virtual box. </b>
 
-- <b>📝 STEP 3: We are going to create a VM for each tool. > Open VirtualBox and click on "New" to create a new virtual machine for each tool. Repeat the process for each tool. You can check out the video I linked above for a more detailed process</b>
+- <b>📝 STEP 3: After opening both tools, I ran 'ifconfig' on Metasploitable to know the IP address I will be hacking into</b>
 <img width="960" alt="Screenshot 2023-12-27 131829" src="https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab/assets/154943957/9662e756-7447-45a9-a83b-147d61dacb82">
 
 - <b>📝 STEP 4: Connect VMs in a Network > In VirtualBox, select each VM and go to "Settings" > "Network." Choose the "Bridged Adapter" for each VM to connect them to the same network.</b>
