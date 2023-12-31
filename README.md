@@ -1,4 +1,4 @@
-# Mastering-Network-Insights: A-beginners-guide-to-TCPDump-and-Nmap 📡🌐
+# Mastering-Network-Insights-A-beginners-guide-to-TCPDump-Wireshark-Zenmap-and-Nmap 📡🌐
 
 <h2>📚 Introduction</h2>
 Hey guys welcome to another cybersecurity project 🌐💻. In this project, I will dive into the basics of network security. TCPDump and Nmap are our tools of choice, this beginner's tool is essential in the monitoring and securing of our networks. Whether you're completely new to this or just curious to know more, this project is about the basics of keeping our network world safe and secure, so let's dive into it.
