@@ -25,16 +25,21 @@ Hey guys welcome to another cybersecurity project 🌐💻. In this project, I w
 
 - <b>📝 STEP 2: Download and exact the Kali Linux and Metasploitable tool to use in Virtual box. </b>
 
-- <b>📝 STEP 3: After opening both tools, I ran 'ifconfig' on Metasploitable to know the IP address (172.20.10.13) I will be performing infomation gathering on. </b>
+- <b>📝 STEP 3: After opening both tools, I ran 'ifconfig' on Metasploitable to know the IP address (172.20.10.13) I will be performing information gathering on. </b>
 <img width="381" alt="Screenshot 2023-12-31 035106" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/4c795b36-9199-4ff4-9601-b0d85178522b">
 
 
 - <b>📝 STEP 4: From here I was able to run basic Nmap commands on the command line to see what a vulnerable machine would look like. </b>
-- For example : nmap 172.20.10.13 scans the top 1000 TCP ports on a target IP address, this tells us which ports are open or closed, and some open ports might mean a machine is vulnerable. just like our example
+- For example: 'nmap 172.20.10.13' scans the top 1000 TCP ports on a target IP address, this tells us which ports are open or closed, and some open ports might mean a machine is vulnerable. just like our example in this project.
 <img width="408" alt="Screenshot 2023-12-31 052449" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/1c1f6efa-95bb-4e3b-a6f3-45f33460770e">
+- Another Nmap command I used was the 'nmap -O 172.20.10.13' which identifies the operating system of the target, for this machine it was a 'Linux 2.6.X'.
+- Another Nmap command I experimented with was the 'nmap -sV 172.20.10.13' which shows the service versions running on open ports. For an attack information like this can be used to cause a lot of harm.
 
 
-- <b>📝 STEP 5: We explore and practice: As I said we are only setting up the Home lab and connecting each tool, then using it for future projects. So keep watch for the next project]
+- <b>📝 STEP 5: I practiced using ZENMAP, which is just the GUI version of the Nmap. I practiced on the same IP address and this was my result </b>
+<img width="609" alt="Screenshot 2023-12-31 054516" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/a5b4749f-f239-44c4-ad0b-21384db05f30">
+
+- <b>📝 STEP 6: This was where I dived into TCPdump practiced using ZENMAP, which is just the GUI version of the Nmap. I practiced on the same IP address and this was my result </b>
 
 <h2> 🤳 Connect with me:</h2>
 
