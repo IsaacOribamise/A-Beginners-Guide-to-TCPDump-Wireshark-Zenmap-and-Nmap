@@ -24,6 +24,8 @@ Hey guys welcome to another cybersecurity project 🌐💻. In this project, I w
 - <b>📝 STEP 1: Download and install VirtualBox from the official website. Follow the installation instructions for your operating system.</b>
 
 - <b>📝 STEP 2: Download and exact the Kali Linux and Metasploitable tool to use in Virtual box. </b>
+<img width="617" alt="Screenshot 2023-12-31 060416" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/5e430e53-8f6e-46aa-afbf-338f59b5099c">
+
 
 - <b>📝 STEP 3: After opening both tools, I ran 'ifconfig' on Metasploitable to know the IP address (172.20.10.13) I will be performing information gathering on. </b>
 <img width="381" alt="Screenshot 2023-12-31 035106" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/4c795b36-9199-4ff4-9601-b0d85178522b">
@@ -39,7 +41,12 @@ Hey guys welcome to another cybersecurity project 🌐💻. In this project, I w
 - <b>📝 STEP 5: I practiced using ZENMAP, which is just the GUI version of the Nmap. I practiced on the same IP address and this was my result </b>
 <img width="609" alt="Screenshot 2023-12-31 054516" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/a5b4749f-f239-44c4-ad0b-21384db05f30">
 
-- <b>📝 STEP 6: This was where I dived into TCPdump practiced using ZENMAP, which is just the GUI version of the Nmap. I practiced on the same IP address and this was my result </b>
+- <b>📝 STEP 6: This was where I dived into TCPdump and practiced using its commands. The 'tcpdump -i eth0' captures packets on my network interface this essentially means that I can observe and analyze the data that is flowing through my computer's network connection.  </b>
+<img width="419" alt="Screenshot 2023-12-31 055449" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/1e0821c2-72f7-4202-ad57-faaacca3e1ea">
+
+- <b>📝 STEP 6: Lastly, I practiced the use of Wireshark, it has a similar function to the 'TCPdump' command which captures packets on my WIFI but is GUI version.
+<img width="577" alt="Screenshot 2023-12-31 060146" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/077e2c6e-a1ae-4d74-b009-a1c2cdf40eef">
+
 
 <h2> 🤳 Connect with me:</h2>
 
